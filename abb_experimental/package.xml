@@ -24,6 +24,7 @@
   <exec_depend>abb_irb1600_support</exec_depend>
   <exec_depend>abb_irb2600_support</exec_depend>
   <exec_depend>abb_irb4600_support</exec_depend>
+  <exec_depend>abb_irb4600_moveit_config</exec_depend>
   <exec_depend>abb_irb52_support</exec_depend>
   <exec_depend>abb_irb6650s_support</exec_depend>
   <exec_depend>abb_irb6700_support</exec_depend>
